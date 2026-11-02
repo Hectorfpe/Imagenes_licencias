@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id_noticia": null,
+  "id_prueba": "TEST-001",
+  "id_imagen": "001-img-001",
+  "version": 1,
+  "es_prueba": true,
+  "ruta": "pruebas/TEST-001/001-img-001-v001.png",
+  "ruta_manifiesto": "pruebas/TEST-001/001-img-001-v001.json",
+  "sha256": "ff513619debd6127d2c4056922c5b426783fb2530acde3aad1522fc888252ac3",
+  "bytes": 2103,
+  "ancho": 190,
+  "alto": 190,
+  "formato": "PNG",
+  "url": "https://raw.githubusercontent.com/Hectorfpe/Imagenes_licencias/main/pruebas/TEST-001/001-img-001-v001.png"
+}
