@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id_noticia": "046",
+  "id_prueba": null,
+  "id_imagen": "046-img-001",
+  "version": 1,
+  "es_prueba": false,
+  "ruta": "noticias/046/046-img-001-v001.jpg",
+  "ruta_manifiesto": "noticias/046/046-img-001-v001.json",
+  "sha256": "d049f4a8af467ed033ab20bfae12ce09d1d9c72fdf54b79107e4579757eccae1",
+  "bytes": 74001,
+  "ancho": 640,
+  "alto": 360,
+  "formato": "JPEG",
+  "url": "https://raw.githubusercontent.com/Hectorfpe/Imagenes_licencias/main/noticias/046/046-img-001-v001.jpg"
+}
